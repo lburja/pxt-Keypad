@@ -86,7 +86,7 @@ interface KV {
 /**
  * Functions for DFRobot gamer:bit Players.
  */
-//% weight=10 color=#DF6721 icon="\uf11b" block="Math_Automatic"
+//% weight=10 color=#DF6721 icon="\uf11b" block="Keypad"
 namespace keyboard {
     let PIN_INIT = 0;
     //let kbCallback: Action = null;
