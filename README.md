@@ -1,24 +1,8 @@
 # DFRobot Math & Automatic Touch Keyboard for micro:bit
 
-## Blocks
+## Overview
 
-### 1.LED control
-![image](https://github.com/DFRobot/pxt-gamePad/blob/master/image/1.png)
-
-### 2.Vibration motor control
-![image](https://github.com/DFRobot/pxt-gamePad/blob/master/image/2.png)<br>
-![image](https://github.com/DFRobot/pxt-gamePad/blob/master/image/3.png)
-
-### 3.Buttons are triggered as events.
-![image](https://github.com/DFRobot/pxt-gamePad/blob/master/image/4.png)
-
-### 4.Check button status
-![image](https://github.com/DFRobot/pxt-gamePad/blob/master/image/5.png)
-
-
-## License
-
-GNU
+See https://wiki.dfrobot.com/Math%20%26%20Automatic%20for%20micro%3Abit%20%20SKU%3A%20MBT0016
 
 ## Supported targets
 
