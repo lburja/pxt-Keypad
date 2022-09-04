@@ -187,6 +187,7 @@ namespace keyboard {
         ws2812b.sendBuffer(neopixel_buf, DigitalPin.P15)
     }
 
+    /* 
     //% weight=76
     //% startLed.defl=0
     //% endLed.defl=15
@@ -253,7 +254,7 @@ namespace keyboard {
             writeBuff(endLed, hsl(endHue, saturation, luminance));
         }
         ws2812b.sendBuffer(neopixel_buf, DigitalPin.P15)
-    }
+    }*/
 
     //% weight=75
     //% blockId=led_blank block="turn off all leds"
