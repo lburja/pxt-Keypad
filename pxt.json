@@ -1,7 +1,7 @@
 {
-    "name": "Math-Automatic",
+    "name": "Keypad",
     "version": "0.0.0",
-    "description": "This library is DFRobot gamer:bit provides the game handle control function.",
+    "description": "This library provides support for the DFRobot keypad (Math-Automatic).",
     "license": "GNU",
     "dependencies": {
         "core": "*",
