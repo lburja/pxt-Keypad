@@ -78,7 +78,7 @@ interface KV {
     action: Action;
 }
 /**
- * Functions for DFRobot Keypad (Math-Automatic).
+ * Functions for Math & Automatic Touch Keyboard.
  */
 //% weight=10 color=#DF6721 icon="\uf11c" block="Keypad"
 namespace keyboard {
