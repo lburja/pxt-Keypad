@@ -9,7 +9,7 @@
     },
     "files": [
         "README.md",
-        "Math-Automatic.ts",
+        "Keypad.ts",
         "ws2812b.ts",
         "sendBuffer.asm"
     ],
